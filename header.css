@@ -1,0 +1,17 @@
+.headerWrapper {
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  width: 100%; /* Full width */
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+  padding: 20px 20px;
+  background-color: #221f10;
+  color: aliceblue;
+  position: fixed;
+}
+.headerWrapper h1 {
+  font-size: 50px;
+}
+.links ul {
+  display: flex;
+}
